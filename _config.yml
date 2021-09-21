@@ -60,7 +60,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 게임 공통 모듈 개발
+        title: To-do App ( Objective-C )
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
@@ -71,7 +71,27 @@ content:
 #             icon: fab fa-github
 #             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Clear ( to-do 앱 )이 출시 되자마자, 벤치마킹해서 2주 만에 런칭 
+        description: | # this will include new lines to allow paragraphs
+          세로 모드, iPad 모드 추가 
+
+          Core data, SQLite, iCloud, Google Cal, iCal 동기화 
+
+          UI - 30가지 색, 폰트 추가, Cell & 폰트 크기 조절, Badge (App,List), Sound Effects, Ani Speed 조절  
+
+      - layout: left
+        title: 게임 공통 모듈 개발 ( iOS )
+#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: Link Text
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          2009 ~ 2020 ( 50개 이상 게임 런칭 Cocos2d-x, Cocos2d )
         description: | # this will include new lines to allow paragraphs
           데이터( 데이터, 이미지 ) 암호화, 용량 축소화 처리 
           

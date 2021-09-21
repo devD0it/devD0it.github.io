@@ -60,7 +60,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 게임 공통 모듈
+        title: 게임 공통 모듈 개발
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
@@ -73,7 +73,10 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          데이터( 데이터, 이미지 ) 암호화, 용량 축소화 처리 
+          퍼즐 게임류 - 자체 알고리즘으로 자동으로 난이도와 유저 데이터를 기반으로 밸런스 조절 
+          사용자 타입을 기반으로 광고 배치 
+          SNS sdk 분석을 통해 사용자에 맞춘 Local Noti 호출 
           
       - layout: left
         title: Project name

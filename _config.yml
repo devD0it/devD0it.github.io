@@ -53,7 +53,7 @@ darkmode: true
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  재미있게
+  재미있게 ㅇㅇ
 
 content:
   - title: Projects # Title for the section
@@ -61,18 +61,19 @@ content:
     content:
       - layout: left
         title: 게임 공통 모듈
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: Link Text
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           50개 게임 개발 ( 2009 ~ 2020 )
-        description: | 게임 공통 모듈 
+        description: | # this will include new lines to allow paragraphs
+          데이터( 데이터, 이미지 ) 암호화, 용량 축소화 처리 
 # 데이터( 데이터, 이미지 ) 암호화, 용량 축소화 처리 
 # 퍼즐 게임류 - 자체 알고리즘으로 자동으로 난이도와 유저 데이터를 기반으로 밸런스 조절 
 # 사용자 타입을 기반으로 광고 배치 

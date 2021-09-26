@@ -63,14 +63,14 @@ about_content: | # this will include new lines to allow paragraphs
 
   . 나이 차이(10년 넘게) 생각 안하고, 편하게 친구처럼 지내는 성격입니다. 
 
-  . 새로운 언어(Window CE,GVM,BREW,SKVM,Objective-C,Cocos2d,Cocos2d-x)가 나왔을때, 남들보다 빠르게 진입한 경험들이 있습니다. 
+  . 새로운 언어(Window CE, GVM, BREW, SKVM, Objective-C, Cocos2d, Cocos2d-x)가 나왔을때, 남들보다 빠르게 진입한 경험들이 있습니다. 
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 대기업 E-commerce App (iOS)  
+        title: 대기업 E-commerce App \n (iOS)  
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: ( Objective-C )
 #         additional_links:

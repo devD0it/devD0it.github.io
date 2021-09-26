@@ -108,7 +108,7 @@ content:
           . UI - 30가지 색, 폰트 추가, Cell & 폰트 크기 조절, Badge (App,List), Sound Effects, Ani Speed 조절  
 
       - layout: left
-        title: 게임 공통 모듈 개발 ( iOS )
+        title: 게임 공통 모듈 개발
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: iOS ( Objective-C, C/C++ )
 #         additional_links:

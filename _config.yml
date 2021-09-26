@@ -59,7 +59,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    - layout: left
+      - layout: left
         title: 대기업 E-commerce App (iOS)  
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: ( Objective-C )
@@ -78,9 +78,7 @@ content:
           기존 결함들 수정해서 안정화 시킴, 코드 리팩토링으로 추후 업무 효율성 증대 시킴 
           
       - layout: left
-        title: To-do App 
-        
-        ( Objective-C )
+        title: To-do App ( Objective-C )
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: ( Objective-C )
 #         additional_links:

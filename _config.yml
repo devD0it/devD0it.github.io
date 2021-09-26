@@ -59,6 +59,24 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: left
+        title: 대기업 E-commerce App (iOS)  
+#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: ( Objective-C )
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          2021.04.07 ~   
+        description: | # this will include new lines to allow paragraphs
+          새로운 모듈 개발, 기존 모듈 결함 수정, 코드 리팩토링 
+
+          기존 결함들 수정해서 안정화 시킴, 코드 리팩토링으로 추후 업무 효율성 증대 시킴 
+          
       - layout: left
         title: To-do App 
         

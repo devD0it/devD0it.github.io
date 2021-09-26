@@ -62,7 +62,7 @@ content:
       - layout: left
         title: To-do App ( Objective-C )
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#         link_text: Link Text
+        link_text: ( Objective-C )
 #         additional_links:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
@@ -71,7 +71,7 @@ content:
 #             icon: fab fa-github
 #             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Clear ( to-do 앱 )이 출시 되자마자, 벤치마킹해서 2주 만에 런칭 
+          2012년 Clear ( to-do 앱 )이 출시 되자마자, 벤치마킹해서 2주 만에 런칭  
         description: | # this will include new lines to allow paragraphs
           세로 모드, iPad 모드 추가 
 

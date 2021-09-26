@@ -83,9 +83,9 @@ content:
         quote: >
           2021.04.07 ~   
         description: | # this will include new lines to allow paragraphs
-          새로운 모듈 개발, 기존 모듈 결함 수정, 코드 리팩토링 
+          . 새로운 모듈 개발, 기존 모듈 결함 수정, 코드 리팩토링 
 
-          기존 결함들 수정해서 안정화 시킴, 코드 리팩토링으로 추후 업무 효율성 증대 시킴 
+          . 기존 결함들 수정해서 안정화 시킴, 코드 리팩토링으로 추후 업무 효율성 증대 시킴 
           
       - layout: left
         title: To-do App ( Objective-C )
@@ -101,11 +101,11 @@ content:
         quote: >
           2012년 Clear ( to-do 앱 )이 출시 되자마자, 벤치마킹해서 2주 만에 런칭  
         description: | # this will include new lines to allow paragraphs
-          세로 모드, iPad 모드 추가 
+          . 세로 모드, iPad 모드 추가 
 
-          Core data, SQLite, iCloud, Google Cal, iCal 동기화 
+          . Core data, SQLite, iCloud, Google Cal, iCal 동기화 
 
-          UI - 30가지 색, 폰트 추가, Cell & 폰트 크기 조절, Badge (App,List), Sound Effects, Ani Speed 조절  
+          . UI - 30가지 색, 폰트 추가, Cell & 폰트 크기 조절, Badge (App,List), Sound Effects, Ani Speed 조절  
 
       - layout: left
         title: 게임 공통 모듈 개발 ( iOS )
@@ -121,29 +121,30 @@ content:
         quote: >
           2009 ~ 2020 ( 50개 이상 게임 런칭 Cocos2d-x, Cocos2d )
         description: | # this will include new lines to allow paragraphs
-          데이터( 데이터, 이미지 ) 암호화, 용량 축소화 처리 
+          . 데이터( 데이터, 이미지 ) 암호화, 용량 축소화 처리 
           
-          퍼즐 게임류 - 사용자에 따라 자동으로 난이도와 유저 데이터를 기반으로 밸런스 조절 알고리즘 
+          . 퍼즐 게임류 - 사용자에 따라 자동으로 난이도와 유저 데이터를 기반으로 밸런스 조절 알고리즘 
           
-          사용자 타입을 기반으로 광고 배치 알고리즘
+          . 사용자 타입을 기반으로 광고 배치 알고리즘
           
-          SNS sdk 분석을 통해 사용자에 맞춘 Local Noti 호출 알고리즘
+          . SNS sdk 분석을 통해 사용자에 맞춘 Local Noti 호출 알고리즘
           
-      - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+#       - layout: left
+#         title: Project name
+#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: Link Text
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         quote: >
+#           Short overview of the project (optional)
+#         description: | # this will include new lines to allow paragraphs
+#           Description about the work on/with the project
+          
 #   - title: Experience
 #     layout: list
 #     content:

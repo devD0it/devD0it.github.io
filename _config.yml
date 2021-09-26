@@ -62,7 +62,7 @@ content:
       - layout: left
         title: To-do App ( Objective-C )
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: ( Objective-C )
+#         link_text: ( Objective-C )
 #         additional_links:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github

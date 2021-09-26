@@ -71,9 +71,8 @@ content:
     content:
       - layout: left
         title: 대기업 E-commerce App 
-               (iOS)  
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: ( Objective-C )
+        link_text: iOS ( Objective-C )
 #         additional_links:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
@@ -89,9 +88,9 @@ content:
           . 기존 결함들 수정해서 안정화 시킴, 코드 리팩토링으로 추후 업무 효율성 증대 시킴 
           
       - layout: left
-        title: To-do App ( Objective-C )
-#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#         link_text: ( Objective-C )
+        title: To-do App
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: iOS ( Objective-C )
 #         additional_links:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
@@ -110,8 +109,8 @@ content:
 
       - layout: left
         title: 게임 공통 모듈 개발 ( iOS )
-#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#         link_text: Link Text
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: iOS ( Objective-C, C/C++ )
 #         additional_links:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github

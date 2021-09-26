@@ -51,7 +51,7 @@ darkmode: never
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/im12.png | # Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   . 일정보다 개발을 더 빨리 끝내서 테스트를 더 해보는 스타일입니다. 
 

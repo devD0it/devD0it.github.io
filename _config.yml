@@ -53,17 +53,17 @@ darkmode: never
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-일정보다 개발을 더 빨리 끝내서 테스트를 더 해보는 스타일입니다. 
+  일정보다 개발을 더 빨리 끝내서 테스트를 더 해보는 스타일입니다. 
 
-코드 리팩토링, 코드 리뷰를 중요하게 생각합니다. 
+  코드 리팩토링, 코드 리뷰를 중요하게 생각합니다. 
 
-협업시에는 어떤 일을 결정할때, iOS, AOS 팀원들의 의견들을 들어보고 결정합니다. 
+  협업시에는 어떤 일을 결정할때, iOS, AOS 팀원들의 의견들을 들어보고 결정합니다. 
 
-1인개발 - 단일 게임(iOS)으로 200만 다운로드 ( US store 전체 100 위 안 ) 
+  1인개발 - 단일 게임(iOS)으로 200만 다운로드 ( US store 전체 100 위 안 ) 
 
-나이 차이(10년 넘게) 생각 안하고, 편하게 친구처럼 지내는 성격입니다. 
+  나이 차이(10년 넘게) 생각 안하고, 편하게 친구처럼 지내는 성격입니다. 
 
-새로운 언어(Window CE,GVM,BREW,SKVM,Objective-C,Cocos2d,Cocos2d-x)가 나왔을때, 남들보다 빠르게 진입한 경험들이 있습니다. 
+  새로운 언어(Window CE,GVM,BREW,SKVM,Objective-C,Cocos2d,Cocos2d-x)가 나왔을때, 남들보다 빠르게 진입한 경험들이 있습니다. 
 
 content:
   - title: Projects # Title for the section

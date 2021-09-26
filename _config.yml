@@ -70,9 +70,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 대기업 E-commerce App \n (iOS)  
-#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#         link_text: ( Objective-C )
+        title: 대기업 E-commerce App 
+               (iOS)  
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: ( Objective-C )
 #         additional_links:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
